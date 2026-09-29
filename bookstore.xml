@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+
+<bookstore>
+    <book id="B001">
+        <title>Software Engineering</title>
+        <author>Ian Sommerville</author>
+        <publisher>Pearson</publisher>
+        <price>550</price>
+        <year>2020</year>
+    </book>
+
+    <book id="B002">
+        <title>Data Structures</title>
+        <author>Seymour Lipschutz</author>
+        <publisher>McGraw Hill</publisher>
+        <price>400</price>
+        <year>2019</year>
+    </book>
+
+    <book id="B003">
+        <title>Operating System</title>
+        <author>Galvin</author>
+        <publisher>Wiley</publisher>
+        <price>600</price>
+        <year>2021</year>
+    </book>
+</bookstore>
